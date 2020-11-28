@@ -10,6 +10,10 @@
 
 受験には成功したけど平凡な僕がエッセーの真似事をしてみる。
 
+
+SNS
+ - Twitter[https://twitter.com/little_twooooos]
+
 ## どうして？
 
 大学生にもなると大人にならなくてはならなかった。
