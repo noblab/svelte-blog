@@ -1,6 +1,6 @@
 ---
 title: 宇宙船地球号ただのクルー「ヒト」
-published: 2020-11-24T21:36:59.459Z
+published: 2020-12-06T23:55:59.459Z
 author: ナノ
 summary: |
 
