@@ -1,6 +1,6 @@
 ---
 title: ナナメの視線
-published: 2020-11-28T21:36:59.459Z
+published: 2020-11-28
 author: ナノ
 summary: |
 
