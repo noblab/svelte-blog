@@ -1,6 +1,6 @@
 ---
 title: クオリアって概念
-published: 2020-11-24T21:36:59.459Z
+published: 2020-11-24
 author: ナノ
 summary: |
 
