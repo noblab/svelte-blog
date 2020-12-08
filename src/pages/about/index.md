@@ -12,7 +12,7 @@
 
 
 SNS
- - Twitter[https://twitter.com/little_twooooos]
+ - [Twitter](https://twitter.com/little_medicine)
 
 ## どうして？
 
