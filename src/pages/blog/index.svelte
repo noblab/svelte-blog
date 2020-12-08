@@ -17,7 +17,7 @@
   {#each posts as { meta, path }}
     <li class="card">
       <a class="title" href={$url(path)}>{meta.frontmatter.title}</a>
-      {@html marked(meta.frontmatter.summary)}
+      {@html marked(meta.frontmatter.published)}
     </li>
   {/each}
 </ul>

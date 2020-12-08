@@ -1,6 +1,6 @@
 ---
 title: 時間が埋め尽くされていく
-published: 2020-11-06T21:36:59.459Z
+published: 2020-11-06
 author: ナノ
 summary: |
 
